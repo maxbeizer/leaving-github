@@ -24,11 +24,15 @@ Policies and benefits change, and individual circumstances differ. Confirm detai
 - Spend any remaining company-store credit.
 - Claim any permitted employee offers or gift codes that expire with your employment.
 - Check whether you are eligible for Microsoft or other relevant alumni programs.
+- Ask whether you are eligible to keep or purchase your work laptop, and get the answer in writing before treating it as personal property.
 
 ### Prepare for losing access
 
-- Move personal accounts away from your work email address and phone number.
+- Review your personal GitHub account's primary email, notification addresses, and recovery settings. Make sure they use an address and phone number you will retain.
+- Update payroll, benefits, and other post-employment services to use your personal email address.
+- Confirm that your personal GitHub account has been removed from company-owned GitHub organizations and enterprises, as well as any Microsoft organizations you no longer need to access. Check for remaining SSO or managed-account connections.
 - Export personal contacts and note how to reach people you want to stay in touch with.
+- After offboarding is complete, remove work accounts, profiles, and authentication tokens from Microsoft Authenticator, Okta Verify, and other work apps on your personal phone. Uninstall work-only apps once you are sure doing so will not lock you out of a personal account.
 - Return company equipment and remove personal data from it according to company policy.
 - Make a list of post-departure deadlines, including benefit elections, reimbursements, account transfers, and tax forms.
 
