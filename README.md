@@ -2,7 +2,8 @@
 
 Notes, tips, and reminders for GitHub employees preparing to leave the company.
 
-Policies and benefits change, and individual circumstances differ. Confirm details and deadlines with the appropriate benefits, HR, payroll, or plan provider before acting.
+> [!IMPORTANT]
+> This is an informal, community-maintained collection—not official guidance from GitHub or Microsoft. Policies and benefits change, and individual circumstances differ. Confirm details and deadlines with the appropriate benefits, HR, payroll, or plan provider before acting.
 
 ## Before your last day
 
